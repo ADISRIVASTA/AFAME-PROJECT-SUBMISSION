@@ -14,3 +14,8 @@ Sepal Width (cm)
 Petal Length (cm)
 Petal Width (cm)
 The goal is to use these features to build a model that can accurately predict the species of a new, unseen flower.
+
+
+
+![image](https://github.com/ADISRIVASTA/AFAME-PROJECT-SUBMISSION/assets/153452827/a99b58e0-ae42-484d-a3d2-7789a4239259)
+
